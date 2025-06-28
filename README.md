@@ -42,14 +42,14 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Text (body): #F5F5F5 (White Smoke)
 - Buttons/CTAs: #00BFFF (Bright Cyan)
 
-#### Light Theme (Optional Alt Style)**
+#### Light Theme (Optional Alt Style)
 - Background: #FFFFFF
 - Accent Panels: #F0F0F0
 - Text (headings): #0F1B25
 - Text (body): #1F2E3D
 - Buttons/CTAs: #003366
 
-#### Link States (Dark Mode)**
+#### Link States (Dark Mode)
 - Default: #00BFFF
 - Hover: #1ED6FF
 - Active: #80EFFF
@@ -59,7 +59,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 
 #### Primary Display Font
 - **Bebas Neue**, **Anton**, or **Oswald** for headers
-- **Roboto**, **Open Sans**, or Titillium Web** for body
+- **Roboto**, **Open Sans**, or **Titillium Web** for body
 
 ### Website Structure & Features
 
@@ -91,7 +91,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 
 ## Timeline
 
-**Target Launch Date:** October 4, 2025
+**Target Launch Date:** October 4, 2025<br />
 *The following timeline is an estimate and subject to change*
 
 ### Phase 1: Planning & Foundation
@@ -230,14 +230,14 @@ If you are the owner of any intelectural property featured on this site and woul
 
 For any questions or concern, please contact the the following clan leaders or find us on Discord:
 
-**Andrew Wright**
-CoD Tag: pra3torian89
-GitHub: [Pra3torian89](https://github.com/pra3torian89)
+**Andrew Wright**<br />
+CoD Tag: pra3torian89<br />
+GitHub: [Pra3torian89](https://github.com/pra3torian89)<br />
 E-mail: awwright@protonmail.com
 
-**Aly Wright**
-CoD Tag: gaminpanda
-GitHub:
+**Aly Wright**<br />
+CoD Tag: gaminpanda<br />
+GitHub:<br />
 E-mail:
 
 [Official SSG Discord Server](https://discord.gg/ds2QETFRc4)
