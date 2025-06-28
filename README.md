@@ -232,19 +232,19 @@ If you are the owner of any intelectural property featured on this site and woul
 
 For any questions or concern, please contact the the following clan leaders or find us on Discord:
 
+<!-- Discord links need to be fixed, not currently working -->
+
 **Andrew Wright**<br />
 Clan Co-Leader and Owner of this repository<br />
 CoD Tag: pra3torian89<br />
-GitHub: [Pra3torian89](https://github.com/pra3torian89)<br />
+GitHub: [Pra3torian89](https://github.com/pra3torian89) | Discord: [@pra3torian89](https://discord.gg/e6P3mqms) | Twitch: [pra3torian89](https://twitch.tv/pra3torian89)<br />
 E-mail: awwright@protonmail.com
-Discord: [@pra3torian89](https://discord.gg/e6P3mqms)
-Twitch: [pra3torian89](https://twitch.tv/pra3torian89)
+
 
 **Aly Wright**<br />
 Clan Co-Leader<br />
 CoD Tag: gaminpanda<br />
-GitHub: [Alyrw112](https://github.com/alyrw112)
-Discord: [gam1ngp4nda](https://discord.gg/gam1ngp4nda)
-Twitch: [Gam1ngP4nda](https://twitch.tv/gam1ngp4nda)
+GitHub: [Alyrw112](https://github.com/alyrw112)<br />
+Discord: [@gam1ngp4nda](https://discord.gg/gam1ngp4nda) | Twitch: [Gam1ngP4nda](https://twitch.tv/gam1ngp4nda)
 
 [Official SSG Discord Server](https://discord.gg/ds2QETFRc4)
