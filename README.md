@@ -97,7 +97,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 *The following timeline is an estimate and subject to change*
 
 #### Phase 1: Planning & Foundation
-**July 1 - July 14, 2025**
+*July 1 - July 14, 2025*
 
 - Finalize project scope and website goals
 - Complete branding assets (SSG logo, fonts, color palette)
@@ -106,7 +106,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Finalize design brief and site architecture
 
 #### Phase 2: Development
-**July 15 - August 15, 2025**
+*July 15 - August 15, 2025*
 
 - Build `HOME` and `ABOUT` pages with finalized content and branding
 - Develop `JOIN US` page with application form & automated email response
@@ -116,7 +116,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Deploy site to GitHub Pages for initial public testing
 
 #### Phase 3: Testing & Content Load
-**August 16 - September 7, 2025**
+*August 16 - September 7, 2025*
 
 - Test Layout across desktop and mobile devices (responsive design)
 - Run accessibility checks (WCAG 2.1 AA compliance)
@@ -125,7 +125,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Finalize blog template and create initial content
 
 #### Phase 4: Pre-Launch & Marketing Prep
-**September 8 - September 30, 2025**
+*September 8 - September 30, 2025*
 
 - Embed Discord, Twitch, and social media links (if not done already)
 - Create pre-launch teaser content for social channels
@@ -134,7 +134,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Invite clan members to review and give feedback
 
 #### Phase 5: Official Launch
-**Launch Date: October 4, 2025**
+*Launch Date: October 4, 2025*
 
 - Go live with full site on GitHub Pages
 - Promote launch via Discord, Twitch, and social media
@@ -142,7 +142,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Open public recruitment via application form
 
 #### Phase 6: Members Page & Sponsors
-**Dates: TBD (Post-launch development**
+*Dates: TBD (Post-launch development*
 
 - Design and build a **Members** page to showcase active clan members
   - Include member avatars, roles, and brief bios
@@ -242,9 +242,11 @@ E-mail: awwright@protonmail.com
 
 
 **Aly Wright**<br />
-Clan Co-Leader<br />
+Clan Co-Leader (and obviously the better developer)<br />
 CoD Tag: gaminpanda<br />
-GitHub: [Alyrw112](https://github.com/alyrw112)<br />
-Discord: [@gam1ngp4nda](https://discord.gg/gam1ngp4nda) | Twitch: [Gam1ngP4nda](https://twitch.tv/gam1ngp4nda)
+GitHub: [Alyrw112](https://github.com/alyrw112) | Discord: [@gam1ngp4nda](https://discord.gg/gam1ngp4nda) | Twitch: [Gam1ngP4nda](https://twitch.tv/gam1ngp4nda)<br />
+Portfolio: [thegamingpanda.com](https://thegamingpanda.com)
+
+---
 
 [Official SSG Discord Server](https://discord.gg/ds2QETFRc4)
