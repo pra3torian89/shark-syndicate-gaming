@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/ssg_logo_transparent" alt="Official logo of Shark Syndicate Gaming. Featuring an aggressive-looking shark and lettering" width="20%">
+
 # Shark Syndicate Gaming
 
 The official home of Shark Syndicate Gaming, a competitive *Call of Duty: Mobile* clan.
