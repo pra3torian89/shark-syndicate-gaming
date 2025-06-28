@@ -3,7 +3,6 @@
 # Shark Syndicate Gaming
 
 The official home of Shark Syndicate Gaming, a competitive *Call of Duty: Mobile* clan.
-<hr>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pra3torian89/shark-syndicate-gaming)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Pra3torian89/shark-syndicate-gaming)
