@@ -2,7 +2,7 @@
 
 # Shark Syndicate Gaming
 
-The official website of Shark Syndicate Gaming, a competitive Call of Duty clan.
+The official home of Shark Syndicate Gaming, a competitive *Call of Duty: Mobile* clan.
 <hr>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Pra3torian89/shark-syndicate-gaming)
@@ -27,7 +27,7 @@ The official website of Shark Syndicate Gaming, a competitive Call of Duty clan.
 
 ## About This Project
 
-This repository serves as the home for the official website of Shark Syndicate Gaming, a competitive Call of Duty: Mobile clan. The concept of this clan was born as pra3torian89 and gaminpanda played and were looking for a way to make new friends within the game, obtain in-game resources only availble to high-performing clans, and dominate the leaderboard in clan wars.
+This repository serves as the home for the official website of Shark Syndicate Gaming, a competitive *Call of Duty: Mobile* clan. The concept of this clan was born as pra3torian89 and gaminpanda played and were looking for a way to make new friends within the game, obtain in-game resources only availble to high-performing clans, and dominate the leaderboard in clan wars.
 
 The goal of this project is to recruit new, compatible members to: compete together in clan wars and tournaments, promote Twitch streams and media, create a sense of exclusivity and brand identity, and attract sponsorships and showcase team credibility.
 
@@ -64,7 +64,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 ### Website Structure & Features
 
 #### Website Structure
-- Home
+- [Home](index.html)
 - About Us
 - Join Us (Apply)
 - Tournaments
@@ -73,6 +73,9 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Discord & Social
 - Sponsors (future idea)
 - Members Only (login/access-controlled)
+<!-- add link to assets folder in directory -->
+- [Assets](#assets)
+- [Styles](styles.css)
 
 #### Core Features
 - Application form with automated email response
@@ -231,13 +234,14 @@ If you are the owner of any intelectural property featured on this site and woul
 For any questions or concern, please contact the the following clan leaders or find us on Discord:
 
 **Andrew Wright**<br />
+Clan Co-Leader and Owner of this repository<br />
 CoD Tag: pra3torian89<br />
 GitHub: [Pra3torian89](https://github.com/pra3torian89)<br />
 E-mail: awwright@protonmail.com
 
 **Aly Wright**<br />
+Clan Co-Leader
 CoD Tag: gaminpanda<br />
-GitHub:<br />
-E-mail:
+GitHub: [Alyrw112](https://github.com/alyrw112)
 
 [Official SSG Discord Server](https://discord.gg/ds2QETFRc4)
