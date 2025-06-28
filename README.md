@@ -91,12 +91,12 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - GitHub-hosted (static site) using HTML/CSS/JS or static site generator (e.g., Hugo or Jekyll)
 - SEO-optimized with proper metadata, keywords, and semantic HTML
 
-## Timeline
+### Timeline
 
 **Target Launch Date:** October 4, 2025<br />
 *The following timeline is an estimate and subject to change*
 
-### Phase 1: Planning & Foundation
+#### Phase 1: Planning & Foundation
 **July 1 - July 14, 2025**
 
 - Finalize project scope and website goals
@@ -105,7 +105,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Write and publish `README.md` and `LICENSE`
 - Finalize design brief and site architecture
 
-### Phase 2: Development
+#### Phase 2: Development
 **July 15 - August 15, 2025**
 
 - Build `HOME` and `ABOUT` pages with finalized content and branding
@@ -115,7 +115,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Implement basic SEO: meta tags, keywords, `sitemap.xml`
 - Deploy site to GitHub Pages for initial public testing
 
-### Phase 3: Testing & Content Load
+#### Phase 3: Testing & Content Load
 **August 16 - September 7, 2025**
 
 - Test Layout across desktop and mobile devices (responsive design)
@@ -124,7 +124,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Optimize all images and enable lazy loading
 - Finalize blog template and create initial content
 
-### Phase 4: Pre-Launch & Marketing Prep
+#### Phase 4: Pre-Launch & Marketing Prep
 **September 8 - September 30, 2025**
 
 - Embed Discord, Twitch, and social media links (if not done already)
@@ -133,7 +133,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Submit site to relevant esports and gaming directories/forums
 - Invite clan members to review and give feedback
 
-### Phase 5: Official Launch
+#### Phase 5: Official Launch
 **Launch Date: October 4, 2025**
 
 - Go live with full site on GitHub Pages
@@ -141,7 +141,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
 - Begin posting regular content (blogs, tournament recaps, highlights)
 - Open public recruitment via application form
 
-### Phase 6: Members Page & Sponsors
+#### Phase 6: Members Page & Sponsors
 **Dates: TBD (Post-launch development**
 
 - Design and build a **Members** page to showcase active clan members
@@ -157,7 +157,7 @@ The goal of this project is to recruit new, compatible members to: compete toget
   - **Join the team** CTA for both sponsors and players
 
 
-## Deliverables
+### Deliverables
 
 - Fully functional HTML/CSS website (desktop and mobile)
 - Logo file compatible with light and dark backgrounds `.png` & `.svg`
