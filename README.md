@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ssg_logo_tranparent.png" alt="Official logo of Shark Syndicate Gaming. Featuring an aggressive-looking shark and lettering" width="20%">
+<img src="assets/ssg_logo_tranparent.png" alt="Official logo of Shark Syndicate Gaming. Featuring an aggressive-looking shark and lettering" width="25%">
 
 # Shark Syndicate Gaming
 
